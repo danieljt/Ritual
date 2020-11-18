@@ -1,8 +1,6 @@
 .vscode/*
 Library/*
 Logs/*
-Packages/*
-ProjectSettings/*
 obj/Debug/*
+Temp/
 *.ttf
-*.meta
